@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingNumberWithNeighbors", "ComparingNumberWithNeighbors\ComparingNumberWithNeighbors.csproj", "{BEE7176D-B404-4296-86AB-21AEA45276BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyTimesNumberInArray", "HowManyTimesNumberInArray\HowManyTimesNumberInArray.csproj", "{693C4A79-EAC8-4E25-B9CF-287B45FEFF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE7176D-B404-4296-86AB-21AEA45276BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE7176D-B404-4296-86AB-21AEA45276BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE7176D-B404-4296-86AB-21AEA45276BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE7176D-B404-4296-86AB-21AEA45276BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693C4A79-EAC8-4E25-B9CF-287B45FEFF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693C4A79-EAC8-4E25-B9CF-287B45FEFF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693C4A79-EAC8-4E25-B9CF-287B45FEFF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693C4A79-EAC8-4E25-B9CF-287B45FEFF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3311D9-E96A-430B-BCA2-1CF97385B968}
+	EndGlobalSection
+EndGlobal
